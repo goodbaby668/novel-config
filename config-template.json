@@ -1,0 +1,25 @@
+{
+  "version": 1,
+  "enabled": true,
+  "appName": "轻读小说",
+  "searchEnabled": true,
+  "crawlEnabled": true,
+  "hiddenMenu": false,
+  "sources": [
+    {
+      "name": "笔趣阁",
+      "url": "https://www.xbiquwx.la",
+      "enabled": true
+    },
+    {
+      "name": "笔趣阁备用",
+      "url": "https://www.biquge.com.cn",
+      "enabled": true
+    },
+    {
+      "name": "起点中文",
+      "url": "https://www.qidian.com",
+      "enabled": false
+    }
+  ]
+}
